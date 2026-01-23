@@ -1,1 +1,31 @@
 /* Add CSS Styling */
+
+.p1,
+.p3,
+.p5 {
+
+    background-color: rgb(241, 144, 160);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+#div2 {
+
+    color: blue;
+    font-size: 36px;
+
+}
+
+.p3 {
+    font-size: 24px;
+}
+
+#div4 {
+
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+
+
+}
+
